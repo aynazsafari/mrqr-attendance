@@ -18,7 +18,8 @@
 </div>
 
 ---
-![UI](assets/dashboard.png)
+<img width="1918" height="863" alt="dashboard" src="https://github.com/user-attachments/assets/21c0ad59-0825-47e1-a0b3-7289bff594ec" />
+
 
 ## 🌸 What Is MrQR?
 
