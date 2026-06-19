@@ -177,6 +177,5 @@ Distributed under the **MIT License** — feel free to use, modify, and share.
 
 <div align="center">
 
-*Made with 💗 and a lot of pink gradients*
 
 </div>
