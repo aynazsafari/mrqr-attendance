@@ -18,7 +18,7 @@
 </div>
 
 ---
-![UI](assets/Screenshot.png)
+![UI](assets/dashboard.png)
 
 ## 🌸 What Is MrQR?
 
