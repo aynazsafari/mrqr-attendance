@@ -18,6 +18,7 @@
 </div>
 
 ---
+## 📸 Screenshots
 <img width="1918" height="863" alt="dashboard" src="https://github.com/user-attachments/assets/21c0ad59-0825-47e1-a0b3-7289bff594ec" />
 
 
@@ -138,14 +139,6 @@ streamlit run app.py
 
 - The right column shows a **live attendance table**
 - Click **Download Report (CSV)** to export at any time
-
----
-
-## 📸 Screenshots
-
-> *Coming soon — add screenshots of your running app here!*
->
-> Tip: Press `F12 → Screenshots` in Streamlit or use `cmd/ctrl + shift + 5` on Mac/Windows.
 
 ---
 
