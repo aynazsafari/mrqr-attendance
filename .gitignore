@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Generated QR codes (keep folder, not generated files)
+QR_Codes/*.png
+QR_Codes/*.jpg
+!QR_Codes/.gitkeep
+
+# Data (sensitive — exclude by default; commit sample data only)
+# data/attendance.csv   ← uncomment to exclude real attendance records
+
+# IDE & OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
